@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402035477907",
+    "project_id": "planify-a4c39",
+    "storage_bucket": "planify-a4c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402035477907:android:d337c0aa66392b46bb2c66",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8eJ14LkwoSAlvlluWVdwrjB-6oxhq58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
